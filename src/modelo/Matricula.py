@@ -5,8 +5,9 @@ Base = declarative_base()
 
 def create_models(tablename):
 
-    class Notas(Base):
-        __tablename__ = 'notas'
+    class Matricula(Base):
+        __tablename__ = 'matricula'
+        IDMatricula = Column(Integer, primary_key=True)
         IDEstudiante = Column(
             Integer,
             ForeignKey('estudiante.IDEstudiante'),
@@ -15,8 +16,10 @@ def create_models(tablename):
             Integer,
             ForeignKey('asignatura.IDAsignatura'),
             primary_key=True)
-
-        C1 = Column(Integer)
-        EP = Column(Integer)
-        C2 = Column(Integer)
-        EF = Column(Integer)
+        IDProfesor = Column(
+            Integer,
+            ForeignKey('profesor.IDProfesor'),
+            primary_key=True)
+        Fecha = Column(Date)
+        Hora = Column(String)
+        Beca = Column(string)
