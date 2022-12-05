@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DailyStats StatsDate="2022-12-04">
+<CatStats CategoryID="000002" EndDate="2022-12-20" StartDate="2022-09-26" eAccept="0.0" eCancelled="0.0" eComplete="0.0" eDefault="24.0" eProposed="0.0" eReject="0.0" eStarted="24.0" eWaiting="0.0" qAccept="0" qCancelled="0" qComplete="0" qProposed="0" qReject="0" qStarted="2" qUnestimated="0" qWaiting="0"/>
+<CatStats CategoryID="000007" EndDate="2022-12-06" StartDate="2022-09-26" eAccept="0.0" eCancelled="0.0" eComplete="0.0" eDefault="24.0" eProposed="0.0" eReject="0.0" eStarted="24.0" eWaiting="0.0" qAccept="0" qCancelled="0" qComplete="0" qProposed="0" qReject="0" qStarted="2" qUnestimated="0" qWaiting="0"/>
+<CatStats CategoryID="000016" EndDate="2022-12-06" StartDate="2022-09-26" eAccept="0.0" eCancelled="0.0" eComplete="0.0" eDefault="0.0" eProposed="0.0" eReject="0.0" eStarted="24.0" eWaiting="0.0" qAccept="0" qCancelled="0" qComplete="0" qProposed="0" qReject="0" qStarted="2" qUnestimated="0" qWaiting="0"/>
+<CatStats CategoryID="000008" EndDate="2022-12-20" StartDate="2022-12-07" eAccept="0.0" eCancelled="0.0" eComplete="0.0" eDefault="0.0" eProposed="0.0" eReject="0.0" eStarted="0.0" eWaiting="0.0" qAccept="0" qCancelled="0" qComplete="0" qProposed="0" qReject="0" qStarted="0" qUnestimated="0" qWaiting="0"/>
+</DailyStats>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProjectAttributes defaultProjectCapacity="10.0" estimateUltimateDefault="8.0" estimateUncertaintyFactor="2.0" isDetailedChartsInReports="false" isReportGenerateOnServer="true" projectStartDate="2022-09-26">
+<Velocity defaultIterationLength="14">
+<VelocityDelta amount="10" description="Project Start" startDate="2022-12-04"/>
+</Velocity>
+<ACL>
+<UserRole roleID="-999" userID="1"/>
+</ACL>
+<fieldList/>
+</ProjectAttributes>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CapacityChangeHistory>
+<CapacityChange Author="admin" Comment="" DateOfChange="2022-12-04 21:41" IterationID="Iteración 01" NewValue="32.0" OldValue="10.0"/>
+<CapacityChange Author="admin" Comment="" DateOfChange="2022-12-04 21:54" IterationID="Iteración 01" NewValue="100.0" OldValue="32.0"/>
+<CapacityChange Author="admin" Comment="" DateOfChange="2022-12-05 15:48" IterationID="Iteración 02" NewValue="90.0" OldValue="10.0"/>
+</CapacityChangeHistory>
